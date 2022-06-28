@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Head-First-App</string>
+    <string name="find_juice">Find Juice</string>
+    <string name="juice_types">No Juice Selected</string>
+    <string-array name="juices_names">
+        <item>Orange</item>
+        <item>Strawberry</item>
+        <item>Kiwi</item>
+        <item>Cocktail</item>
+    </string-array>
 </resources>
